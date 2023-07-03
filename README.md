@@ -1,5 +1,5 @@
 # Tutorial_03_Microgram
-Tutorial de como instalar e configurar o banco de dados SQLite com biblioteca SQLAlchemy em uma aplicação Flask
+Tutorial de como instalar e configurar o banco de dados SQLite com biblioteca SQLAlchemy em uma aplicação Flask.
 ## Descrição
 O Banco de Dados escolhido pela equipe foi o SQLite, que é um sistema de gerenciamento de
 banco de dados relacional embutido, ou seja, é uma biblioteca que permite a criação e
